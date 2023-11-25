@@ -1,0 +1,849 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.18)  23 NOV 2023 09:44
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/maram/OneDrive/Documents/GitHub/bank_marketing/bank_la.tex
+(c:/Users/maram/OneDrive/Documents/GitHub/bank_marketing/bank_la.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen143
+\lightrulewidth=\dimen144
+\cmidrulewidth=\dimen145
+\belowrulesep=\dimen146
+\belowbottomsep=\dimen147
+\aboverulesep=\dimen148
+\abovetopsep=\dimen149
+\cmidrulesep=\dimen150
+\cmidrulekern=\dimen151
+\defaultaddspace=\dimen152
+\@cmidla=\count194
+\@cmidlb=\count195
+\@aboverulesep=\dimen153
+\@belowrulesep=\dimen154
+\@thisruleclass=\count196
+\@lastruleclass=\count197
+\@thisrulewidth=\dimen155
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count198
+\LTcapwidth=\dimen156
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@gbox=\box55
+\LT@cols=\count199
+\LT@rows=\count266
+\c@LT@tables=\count267
+\c@LT@chunks=\count268
+\LT@p@ftn=\toks18
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks19
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count272
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count273
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count274
+)) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen165
+)
+\c@padzeroesN=\count275
+\fc@tmpcatcode=\count276
+\@DT@modctr=\count277
+\@ordinalctr=\count278
+\@orgargctr=\count279
+\@strctr=\count280
+\@tmpstrctr=\count281
+\@DT@loopN=\count282
+\@DT@X=\count283
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen166
+\ttl@minus=\dimen167
+\ttl@toksa=\toks23
+\titlewidth=\dimen168
+\titlewidthlast=\dimen169
+\titlewidthfirst=\dimen170
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-11-09 L3 programming layer (loader) 
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box57
+))
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count285
+\l__lipsum_a_int=\count286
+\l__lipsum_b_int=\count287
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (bank_la.aux
+
+LaTeX Warning: Label `tab:stats' multiply defined.
+
+
+LaTeX Warning: Label `tab:my_label' multiply defined.
+
+
+LaTeX Warning: Label `tab:attribute_distribution' multiply defined.
+
+
+LaTeX Warning: Label `tab:outliers_boxplots' multiply defined.
+
+)
+\openout1 = `bank_la.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen171
+\scratchbox=\box58
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen172
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks25
+) (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\maram\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.def
+File: fc-english.def 2016/01/12
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 20.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 45.
+[1
+
+{C:/Users/maram/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<data/bank_marketing/pic/Data.png, id=9, 801.59476pt x 344.487pt>
+File: data/bank_marketing/pic/Data.png Graphic file (type png)
+<use data/bank_marketing/pic/Data.png>
+Package pdftex.def Info: data/bank_marketing/pic/Data.png  used on input line 94.
+(pdftex.def)             Requested size: 375.80544pt x 161.50415pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2]
+<data/bank_marketing/pic/Bank_attributes .png, id=16, 501.67426pt x 522.15076pt>
+File: data/bank_marketing/pic/Bank_attributes .png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_attributes .png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_attributes .png  used on input line 115.
+(pdftex.def)             Requested size: 187.89914pt x 195.56703pt.
+<data/bank_marketing/pic/Bank_Add_attributes .png, id=17, 505.89pt x 516.12825pt>
+File: data/bank_marketing/pic/Bank_Add_attributes .png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_attributes .png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_attributes .png  used on input line 116.
+(pdftex.def)             Requested size: 187.89914pt x 191.70476pt.
+ [3 <./data/bank_marketing/pic/Data.png> <./data/bank_marketing/pic/Bank_attributes .png> <./data/bank_marketing/pic/Bank_Add_attributes .png>]
+<data/bank_marketing/pic/Outlier/miss_bank.png, id=25, 1503.216pt x 656.9343pt>
+File: data/bank_marketing/pic/Outlier/miss_bank.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/miss_bank.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/miss_bank.png  used on input line 130.
+(pdftex.def)             Requested size: 375.80544pt x 164.23317pt.
+<data/bank_marketing/pic/Outlier/miss_add.png, id=26, 1503.216pt x 679.338pt>
+File: data/bank_marketing/pic/Outlier/miss_add.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/miss_add.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/miss_add.png  used on input line 139.
+(pdftex.def)             Requested size: 375.80544pt x 169.83408pt.
+ [4 <./data/bank_marketing/pic/Outlier/miss_bank.png> <./data/bank_marketing/pic/Outlier/miss_add.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 154--159
+ [] [] [] 
+ []
+
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 159--165
+ [] [] [] 
+ []
+
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 165--167
+ [] [] [] 
+ []
+
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 167--169
+ [] [] [] 
+ []
+
+<data/bank_marketing/pic/Bank_Age.png, id=32, 428.802pt x 333.04425pt>
+File: data/bank_marketing/pic/Bank_Age.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Age.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Age.png  used on input line 178.
+(pdftex.def)             Requested size: 211.38832pt x 164.17897pt.
+<data/bank_marketing/pic/Bank_balance.png, id=33, 537.207pt x 405.31425pt>
+File: data/bank_marketing/pic/Bank_balance.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_balance.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_balance.png  used on input line 187.
+(pdftex.def)             Requested size: 211.38832pt x 159.48819pt.
+<data/bank_marketing/pic/Bank_day.png, id=34, 635.976pt x 405.31425pt>
+File: data/bank_marketing/pic/Bank_day.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_day.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_day.png  used on input line 196.
+(pdftex.def)             Requested size: 211.38832pt x 134.7189pt.
+<data/bank_marketing/pic/Bank_duration.png, id=35, 536.0025pt x 406.51875pt>
+File: data/bank_marketing/pic/Bank_duration.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_duration.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_duration.png  used on input line 205.
+(pdftex.def)             Requested size: 211.38832pt x 160.32191pt.
+<data/bank_marketing/pic/Bank_campaign.png, id=36, 530.58224pt x 408.3255pt>
+File: data/bank_marketing/pic/Bank_campaign.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_campaign.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_campaign.png  used on input line 214.
+(pdftex.def)             Requested size: 211.38832pt x 162.67932pt.
+<data/bank_marketing/pic/Bank_pdays.png, id=37, 529.98pt x 404.712pt>
+File: data/bank_marketing/pic/Bank_pdays.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_pdays.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_pdays.png  used on input line 223.
+(pdftex.def)             Requested size: 211.38832pt x 161.42494pt.
+<data/bank_marketing/pic/Bank_Previous.png, id=38, 525.162pt x 407.72325pt>
+File: data/bank_marketing/pic/Bank_Previous.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Previous.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Previous.png  used on input line 232.
+(pdftex.def)             Requested size: 211.38832pt x 164.11293pt.
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 169--234
+ [] [] [] 
+ []
+
+[5 <./data/bank_marketing/pic/Bank_Age.png>] [6 <./data/bank_marketing/pic/Bank_balance.png> <./data/bank_marketing/pic/Bank_day.png>] [7 <./data/bank_marketing/pic/Bank_duration.png> <./data/bank_marketing/pic/Bank_campaign.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 240--245
+ [] [] [] 
+ []
+
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 245--251
+ [] [] [] 
+ []
+
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 251--253
+ [] [] [] 
+ []
+
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 253--255
+ [] [] [] 
+ []
+
+<data/bank_marketing/pic/Bank_Add_Age.png, id=55, 434.22224pt x 338.4645pt>
+File: data/bank_marketing/pic/Bank_Add_Age.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_Age.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_Age.png  used on input line 264.
+(pdftex.def)             Requested size: 211.38832pt x 164.76965pt.
+<data/bank_marketing/pic/Bank_Add_duration.png, id=56, 536.0025pt x 407.72325pt>
+File: data/bank_marketing/pic/Bank_Add_duration.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_duration.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_duration.png  used on input line 273.
+(pdftex.def)             Requested size: 211.38832pt x 160.79695pt.
+<data/bank_marketing/pic/Bank_Add_campaign.png, id=57, 531.78674pt x 404.712pt>
+File: data/bank_marketing/pic/Bank_Add_campaign.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_campaign.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_campaign.png  used on input line 282.
+(pdftex.def)             Requested size: 211.38832pt x 160.87534pt.
+<data/bank_marketing/pic/Bank_Add_pdays.png, id=58, 531.1845pt x 405.31425pt>
+File: data/bank_marketing/pic/Bank_Add_pdays.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_pdays.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_pdays.png  used on input line 291.
+(pdftex.def)             Requested size: 211.38832pt x 161.30028pt.
+<data/bank_marketing/pic/Bank_Add_Previous.png, id=59, 504.08325pt x 405.31425pt>
+File: data/bank_marketing/pic/Bank_Add_Previous.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_Previous.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_Previous.png  used on input line 300.
+(pdftex.def)             Requested size: 211.38832pt x 169.96489pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+[]|\OT1/cmr/m/n/10 Employment
+ []
+
+<data/bank_marketing/pic/Bank_Add_emp.png, id=60, 515.526pt x 405.31425pt>
+File: data/bank_marketing/pic/Bank_Add_emp.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_emp.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_emp.png  used on input line 309.
+(pdftex.def)             Requested size: 211.38832pt x 166.19847pt.
+<data/bank_marketing/pic/Bank_Add_cons_price.png, id=61, 531.1845pt x 406.51875pt>
+File: data/bank_marketing/pic/Bank_Add_cons_price.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_cons_price.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_cons_price.png  used on input line 318.
+(pdftex.def)             Requested size: 211.38832pt x 161.77962pt.
+<data/bank_marketing/pic/Bank_Add_cons_conf.png, id=62, 528.17325pt x 406.51875pt>
+File: data/bank_marketing/pic/Bank_Add_cons_conf.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_cons_conf.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_cons_conf.png  used on input line 327.
+(pdftex.def)             Requested size: 211.38832pt x 162.69765pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
+[]|\OT1/cmr/m/n/10 EURIBOR
+ []
+
+<data/bank_marketing/pic/Bank_Add_eur.png, id=63, 513.117pt x 404.712pt>
+File: data/bank_marketing/pic/Bank_Add_eur.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_eur.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_eur.png  used on input line 336.
+(pdftex.def)             Requested size: 211.38832pt x 166.72961pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+[]\OT1/cmr/m/n/10 Minimum: 4963.60, Max-i-mum:
+ []
+
+<data/bank_marketing/pic/Bank_Add_nr.png, id=64, 533.5935pt x 406.51875pt>
+File: data/bank_marketing/pic/Bank_Add_nr.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_nr.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_nr.png  used on input line 345.
+(pdftex.def)             Requested size: 211.38832pt x 161.04767pt.
+
+Overfull \hbox (35.99281pt too wide) in alignment at lines 255--347
+ [] [] [] 
+ []
+
+[8 <./data/bank_marketing/pic/Bank_pdays.png> <./data/bank_marketing/pic/Bank_Previous.png>] [9 <./data/bank_marketing/pic/Bank_Add_Age.png> <./data/bank_marketing/pic/Bank_Add_duration.png>] [10 <./data/bank_marketing/pic/Bank_Add_campaign.png> <./data/bank_marketing/pic/Bank_Add_pdays.png>] [11 <./data/bank_marketing/pic/Bank_Add_Previous.png> <./data/bank_marketing/pic/Bank_Add_emp.png>] [12 <./data/bank_marketing/pic/Bank_Add_cons_price.png> <./data/bank_marketing/pic/Bank_Add_cons_conf.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--351
+
+ []
+
+[13 <./data/bank_marketing/pic/Bank_Add_eur.png> <./data/bank_marketing/pic/Bank_Add_nr.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 359--361
+
+ []
+
+<data/bank_marketing/pic/Bank_Corr.png, id=96, 552.1428pt x 480.5955pt>
+File: data/bank_marketing/pic/Bank_Corr.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Corr.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Corr.png  used on input line 364.
+(pdftex.def)             Requested size: 187.89914pt x 163.54697pt.
+<data/bank_marketing/pic/Bank_pairplot.png, id=97, 1308.8097pt x 1286.406pt>
+File: data/bank_marketing/pic/Bank_pairplot.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_pairplot.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_pairplot.png  used on input line 378.
+(pdftex.def)             Requested size: 281.85587pt x 277.02336pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14 <./data/bank_marketing/pic/Bank_Corr.png>]
+<data/bank_marketing/pic/Bank_Add_Corr.png, id=102, 620.0766pt x 539.8569pt>
+File: data/bank_marketing/pic/Bank_Add_Corr.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_Corr.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_Corr.png  used on input line 393.
+(pdftex.def)             Requested size: 328.82707pt x 286.28755pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./data/bank_marketing/pic/Bank_pairplot.png>]
+<data/bank_marketing/pic/Bank_Add_pairplot.png, id=107, 1845.7758pt x 1834.2126pt>
+File: data/bank_marketing/pic/Bank_Add_pairplot.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_pairplot.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_pairplot.png  used on input line 407.
+(pdftex.def)             Requested size: 422.77664pt x 420.12479pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16 <./data/bank_marketing/pic/Bank_Add_Corr.png>] [17 <./data/bank_marketing/pic/Bank_Add_pairplot.png>]
+<data/bank_marketing/pic/Bank_job.png, id=116, 739.3221pt x 442.2924pt>
+File: data/bank_marketing/pic/Bank_job.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_job.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_job.png  used on input line 454.
+(pdftex.def)             Requested size: 328.82707pt x 196.71489pt.
+<data/bank_marketing/pic/Bank_marital.png, id=117, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_marital.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_marital.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_marital.png  used on input line 455.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_edu.png, id=118, 515.2851pt x 429.2838pt>
+File: data/bank_marketing/pic/Bank_edu.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_edu.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_edu.png  used on input line 456.
+(pdftex.def)             Requested size: 328.82707pt x 273.94154pt.
+<data/bank_marketing/pic/Bank_def.png, id=119, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_def.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_def.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_def.png  used on input line 457.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_Hous.png, id=120, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Hous.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Hous.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Hous.png  used on input line 458.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_loan.png, id=121, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_loan.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_loan.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_loan.png  used on input line 459.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_Contact.png, id=122, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Contact.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Contact.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Contact.png  used on input line 460.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_Month.png, id=123, 739.3221pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Month.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Month.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Month.png  used on input line 461.
+(pdftex.def)             Requested size: 328.82707pt x 175.82196pt.
+<data/bank_marketing/pic/Bank_Pout.png, id=124, 627.3036pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Pout.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Pout.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Pout.png  used on input line 462.
+(pdftex.def)             Requested size: 328.82707pt x 207.22478pt.
+ [18 <./data/bank_marketing/pic/Bank_job.png>] [19 <./data/bank_marketing/pic/Bank_marital.png> <./data/bank_marketing/pic/Bank_edu.png>] [20 <./data/bank_marketing/pic/Bank_def.png> <./data/bank_marketing/pic/Bank_Hous.png>] [21 <./data/bank_marketing/pic/Bank_loan.png> <./data/bank_marketing/pic/Bank_Contact.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<data/bank_marketing/pic/Bank_Add_job.png, id=145, 739.3221pt x 442.2924pt>
+File: data/bank_marketing/pic/Bank_Add_job.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_job.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_job.png  used on input line 499.
+(pdftex.def)             Requested size: 328.82707pt x 196.71489pt.
+<data/bank_marketing/pic/Bank_Add_marital.png, id=146, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Add_marital.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_marital.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_marital.png  used on input line 500.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_Add_edu.png, id=147, 515.2851pt x 461.0826pt>
+File: data/bank_marketing/pic/Bank_Add_edu.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_edu.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_edu.png  used on input line 501.
+(pdftex.def)             Requested size: 328.82707pt x 294.23352pt.
+<data/bank_marketing/pic/Bank_Add_def.png, id=148, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Add_def.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_def.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_def.png  used on input line 502.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_Add_Hous.png, id=149, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Add_Hous.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_Hous.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_Hous.png  used on input line 503.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_Add_loan.png, id=150, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Add_loan.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_loan.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_loan.png  used on input line 504.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_Add_Contact.png, id=151, 515.2851pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Add_Contact.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_Contact.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_Contact.png  used on input line 505.
+(pdftex.def)             Requested size: 328.82707pt x 252.26604pt.
+<data/bank_marketing/pic/Bank_Add_Month.png, id=152, 739.3221pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Add_Month.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_Month.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_Month.png  used on input line 506.
+(pdftex.def)             Requested size: 328.82707pt x 175.82196pt.
+<data/bank_marketing/pic/Bank_Add_Pout.png, id=153, 627.3036pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Add_Pout.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_Pout.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_Pout.png  used on input line 507.
+(pdftex.def)             Requested size: 328.82707pt x 207.22478pt.
+<data/bank_marketing/pic/Bank_Add_Dayweek.png, id=154, 620.7993pt x 395.3169pt>
+File: data/bank_marketing/pic/Bank_Add_Dayweek.png Graphic file (type png)
+<use data/bank_marketing/pic/Bank_Add_Dayweek.png>
+Package pdftex.def Info: data/bank_marketing/pic/Bank_Add_Dayweek.png  used on input line 508.
+(pdftex.def)             Requested size: 328.82707pt x 209.3963pt.
+[22 <./data/bank_marketing/pic/Bank_Month.png> <./data/bank_marketing/pic/Bank_Pout.png>] [23 <./data/bank_marketing/pic/Bank_Add_job.png>] [24 <./data/bank_marketing/pic/Bank_Add_marital.png> <./data/bank_marketing/pic/Bank_Add_edu.png>] [25 <./data/bank_marketing/pic/Bank_Add_def.png> <./data/bank_marketing/pic/Bank_Add_Hous.png>] [26 <./data/bank_marketing/pic/Bank_Add_loan.png> <./data/bank_marketing/pic/Bank_Add_Contact.png>] [27 <./data/bank_marketing/pic/Bank_Add_Month.png> <./data/bank_marketing/pic/Bank_Add_Pout.png> <./data/bank_marketing/pic/Bank_Add_Dayweek.png>]
+Overfull \hbox (1.01443pt too wide) in alignment at lines 524--529
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.01443pt too wide) in alignment at lines 529--535
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.01443pt too wide) in alignment at lines 535--537
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.01443pt too wide) in alignment at lines 537--539
+ [] [] [] [] 
+ []
+
+<data/bank_marketing/pic/Outlier/Age.png, id=186, 462.528pt x 397.485pt>
+File: data/bank_marketing/pic/Outlier/Age.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Age.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Age.png  used on input line 554.
+(pdftex.def)             Requested size: 187.89914pt x 161.47787pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--561
+[]\OT1/cmr/m/n/10 Max:
+ []
+
+<data/bank_marketing/pic/Outlier/balance.png, id=187, 462.528pt x 397.485pt>
+File: data/bank_marketing/pic/Outlier/balance.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/balance.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/balance.png  used on input line 569.
+(pdftex.def)             Requested size: 187.89914pt x 161.47787pt.
+<data/bank_marketing/pic/Outlier/Day.png, id=188, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Day.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Day.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Day.png  used on input line 584.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+<data/bank_marketing/pic/Outlier/Duration.png, id=189, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Duration.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Duration.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Duration.png  used on input line 599.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+<data/bank_marketing/pic/Outlier/Campaign.png, id=190, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Campaign.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Campaign.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Campaign.png  used on input line 614.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+<data/bank_marketing/pic/Outlier/Pdays.png, id=191, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Pdays.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Pdays.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Pdays.png  used on input line 629.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+<data/bank_marketing/pic/Outlier/Previous.png, id=192, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Previous.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Previous.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Previous.png  used on input line 644.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+
+Overfull \hbox (1.01443pt too wide) in alignment at lines 539--646
+ [] [] [] [] 
+ []
+
+[28 <./data/bank_marketing/pic/Outlier/Age.png>] [29 <./data/bank_marketing/pic/Outlier/balance.png> <./data/bank_marketing/pic/Outlier/Day.png>] [30 <./data/bank_marketing/pic/Outlier/Duration.png> <./data/bank_marketing/pic/Outlier/Campaign.png>] [31 <./data/bank_marketing/pic/Outlier/Pdays.png> <./data/bank_marketing/pic/Outlier/Previous.png>]
+Overfull \hbox (1.01443pt too wide) in alignment at lines 652--657
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.01443pt too wide) in alignment at lines 657--663
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.01443pt too wide) in alignment at lines 663--665
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (1.01443pt too wide) in alignment at lines 665--667
+ [] [] [] [] 
+ []
+
+<data/bank_marketing/pic/Outlier/Age_Add.png, id=215, 462.528pt x 397.485pt>
+File: data/bank_marketing/pic/Outlier/Age_Add.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Age_Add.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Age_Add.png  used on input line 682.
+(pdftex.def)             Requested size: 187.89914pt x 161.47787pt.
+<data/bank_marketing/pic/Outlier/Duration_Add.png, id=216, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Duration_Add.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Duration_Add.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Duration_Add.png  used on input line 697.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+<data/bank_marketing/pic/Outlier/Campaign_Add.png, id=217, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Campaign_Add.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Campaign_Add.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Campaign_Add.png  used on input line 712.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+<data/bank_marketing/pic/Outlier/Pdays_Add.png, id=218, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Pdays_Add.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Pdays_Add.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Pdays_Add.png  used on input line 727.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+<data/bank_marketing/pic/Outlier/Previous_Add.png, id=219, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Previous_Add.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Previous_Add.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Previous_Add.png  used on input line 742.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+[]|\OT1/cmr/bx/n/10 Employment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
+\OT1/cmr/bx/n/10 Vari-a-tion
+ []
+
+<data/bank_marketing/pic/Outlier/Emp.png, id=220, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Emp.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Emp.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Emp.png  used on input line 757.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 759--759
+[]|\OT1/cmr/bx/n/10 Consumer
+ []
+
+<data/bank_marketing/pic/Outlier/price.png, id=221, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/price.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/price.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/price.png  used on input line 772.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 774--774
+[]|\OT1/cmr/bx/n/10 Consumer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 774--774
+\OT1/cmr/bx/n/10 Con-fi-dence
+ []
+
+<data/bank_marketing/pic/Outlier/conf.png, id=222, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/conf.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/conf.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/conf.png  used on input line 787.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+<data/bank_marketing/pic/Outlier/Eur.png, id=223, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/Eur.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/Eur.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/Eur.png  used on input line 802.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 804--804
+[]|\OT1/cmr/bx/n/10 Number of
+ []
+
+<data/bank_marketing/pic/Outlier/num.png, id=224, 465.4188pt x 395.3169pt>
+File: data/bank_marketing/pic/Outlier/num.png Graphic file (type png)
+<use data/bank_marketing/pic/Outlier/num.png>
+Package pdftex.def Info: data/bank_marketing/pic/Outlier/num.png  used on input line 817.
+(pdftex.def)             Requested size: 187.89914pt x 159.59576pt.
+
+Overfull \hbox (1.01443pt too wide) in alignment at lines 667--819
+ [] [] [] [] 
+ []
+
+[32 <./data/bank_marketing/pic/Outlier/Age_Add.png> <./data/bank_marketing/pic/Outlier/Duration_Add.png>] [33 <./data/bank_marketing/pic/Outlier/Campaign_Add.png> <./data/bank_marketing/pic/Outlier/Pdays_Add.png>] [34 <./data/bank_marketing/pic/Outlier/Previous_Add.png> <./data/bank_marketing/pic/Outlier/Emp.png>] [35 <./data/bank_marketing/pic/Outlier/price.png> <./data/bank_marketing/pic/Outlier/conf.png>] [36 <./data/bank_marketing/pic/Outlier/Eur.png> <./data/bank_marketing/pic/Outlier/num.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 847--852
+
+ []
+
+[37] [38] (bank_la.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4310 strings out of 474587
+ 86515 string characters out of 5745693
+ 1963558 words of memory out of 5000000
+ 26455 multiletter control sequences out of 15000+600000
+ 563173 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 79i,9n,93p,685b,318s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\maram\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/maram/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/maram/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/maram/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/maram/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/maram/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/maram/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/maram/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/maram/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/maram/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on bank_la.pdf (38 pages, 4194161 bytes).
+PDF statistics:
+ 301 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 311 words of extra memory for PDF output out of 10000 (max. 10000000)
+
