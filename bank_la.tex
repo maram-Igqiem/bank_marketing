@@ -874,6 +874,31 @@ The label encoding was applied to the following columns:
 The encoded columns were added to the dataset with the suffix \textit{\_encoded} , providing a numerical representation of the original categorical data.
 The encoded dataset serves as the input for subsequent machine learning tasks.
 
+\subsection{ Dimensionality Reduction with Principal Component Analysis (PCA)}
+
+In this section, we explore the application of Principal Component Analysis (PCA) to reduce the dimensionality of our datasets, namely the primary banking dataset textit{Bank} and its supplementary dataset textit{Bank\_Add}. The primary goal is to distill the information within the datasets while maintaining their essential characteristics.
+
+\subsubsection{ Data Preparation}
+We commence by preparing the datasets, extracting the features and target variables for both textit{Bank} and textit{Bank\_Add}.
+\subsubsection{Standardization}
+To ensure that all features contribute uniformly to the principal components, we employ a standardization process. This step is crucial for eliminating scale-based biases in the dataset.
+\subsubsection{Principal Component Analysis (PCA)}
+Applying PCA to the standardized datasets allows us to transform the original features into a set of principal components. The number of components retained is a critical decision point and is often determined by the desired level of explained variance.
+\subsubsection{Explained Variance Analysis}
+We delve into the analysis of the explained variance ratio to gain insights into the information retained by each principal component. This step aids in determining the appropriate number of components to retain for subsequent analyses.
+\subsubsection{Visualizations}
+Visual representations provide a more intuitive understanding of the results. A plot depicting the cumulative explained variance facilitates the identification of an optimal number of components to retain. Additionally, scatter plots in the reduced feature space allow for a visual examination of the distribution of data points.
+\subsubsection{Findings}
+The application of PCA has yielded a reduced-dimensional representation of the datasets, encapsulating a substantial portion of the original information. The visualizations offer insights into the grouping of data points in the reduced feature space, paving the way for more streamlined analyses and machine learning applications.
+
+
+
+
+
+
+
+
+
 
 \end{document}
 

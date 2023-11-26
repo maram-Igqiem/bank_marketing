@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1700721869 "c:/Users/maram/OneDrive/Documents/GitHub/bank_marketing/bank_la.tex" "bank_la.pdf" "bank_la" 1700721886 0
+["pdflatex"] 1700998752 "c:/Users/maram/OneDrive/Documents/GitHub/bank_marketing/bank_la.tex" "bank_la.pdf" "bank_la" 1700998761 0
   "C:/Users/maram/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1700341102 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/maram/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1700316574 11548 b458ade389884680c7bcaf4c32e3f512 ""
   "C:/Users/maram/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1700311687 24213240 85f544fb8225732f06ba301a43f0e8ba ""
@@ -60,9 +60,9 @@
   "C:/Users/maram/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/maram/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty" 1698867131 12935 94a3291359b5f73ff1b19345a6983105 ""
   "C:/Users/maram/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "bank_la.aux" 1700721885 9382 d7d52d8b591790f3cac11798af9f586d "pdflatex"
-  "bank_la.tex" 1700721867 45794 71cfb69494bd525e4c9725f16f1cdcde ""
-  "c:/Users/maram/OneDrive/Documents/GitHub/bank_marketing/bank_la.tex" 1700721867 45794 71cfb69494bd525e4c9725f16f1cdcde ""
+  "bank_la.aux" 1700998761 10250 2a37c6c852425cb08839140a004ab33c "pdflatex"
+  "bank_la.tex" 1700998751 47937 ce02ef54301741dab3b1056b6dd43b09 ""
+  "c:/Users/maram/OneDrive/Documents/GitHub/bank_marketing/bank_la.tex" 1700998751 47937 ce02ef54301741dab3b1056b6dd43b09 ""
   "data/bank_marketing/pic/Bank_Add_Age.png" 1700122747 36808 3b518bb3600ec5204466d625e774ea8e ""
   "data/bank_marketing/pic/Bank_Add_Contact.png" 1700229208 23020 4478256d925ba1ee1d0b4f9868c304f0 ""
   "data/bank_marketing/pic/Bank_Add_Corr.png" 1700170823 80323 df419b60cb343bb51abc9c3e8d556d30 ""
